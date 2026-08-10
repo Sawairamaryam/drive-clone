@@ -1,0 +1,2 @@
+uploads/user_files/*
+!uploads/user_files/.gitkeep
